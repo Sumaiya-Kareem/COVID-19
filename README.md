@@ -52,7 +52,6 @@ This project delivers an interactive **COVID‑19 Dashboard** built to track, an
 ---
 
 ## 🖼 Screenshot
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
-
+Screenshot 2026-09-21 214408.png
 ---
 
