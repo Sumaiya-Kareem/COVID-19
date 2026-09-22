@@ -52,6 +52,6 @@ This project delivers an interactive **COVID‑19 Dashboard** built to track, an
 ---
 
 ## 🖼 Screenshot
-https://github.com/Sumaiya-Kareem/COVID-19/blob/main/Screenshot%202026-09-21%20214408.png
+![](https://github.com/Sumaiya-Kareem/COVID-19/blob/main/Screenshot%202026-09-21%20214408.png)
 ---
 
